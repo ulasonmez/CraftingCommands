@@ -1,0 +1,13 @@
+main: me.blume.craftingcommands.Main
+name: CraftingCommands
+author: Blume
+version: 1.0
+api-version: 1.16
+
+commands:
+  fly:
+  switch:
+  bring:
+  find:
+  drop:
+  
